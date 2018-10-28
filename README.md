@@ -8,17 +8,17 @@
 
 第2版不仅在内容方面进行了更新，而且还在上一版的基础上做了大量的修订和扩展。涵盖了如下几个方面。
 
-![img](file:////tmp/wps-wayne/ksohtml/wpsQfUB3A.png)	例子全部改用最新的jQuery库。
+例子全部改用最新的jQuery库。
 
-![img](file:////tmp/wps-wayne/ksohtml/wps6hzEkq.png)	例子使用了全新的UI，并且代码更符合语义化。
+例子使用了全新的UI，并且代码更符合语义化。
 
-![img](file:////tmp/wps-wayne/ksohtml/wpsW6XIBf.png)	修订了上一版已发现的所有印刷错误。
+修订了上一版已发现的所有印刷错误。
 
-![img](file:////tmp/wps-wayne/ksohtml/wpsjWTOS4.png)	增加了jQuery Mobile的章节。
+增加了jQuery Mobile的章节。
 
-![img](file:////tmp/wps-wayne/ksohtml/wpsTJlW9T.png)	增加了jQuery版本变化的章节。
+增加了jQuery版本变化的章节。
 
-![img](file:////tmp/wps-wayne/ksohtml/wpseqN5qJ.png)	增加了jQuery性能优化和技巧的章节。
+增加了jQuery性能优化和技巧的章节。
 
 相比之下，第2版的内容又扩充了不少，其中最让我高兴的就是，第2版中新增加的三个章节的内容。
 
@@ -33,12 +33,6 @@
 本书共分为11章。
 
 第1章首先介绍了JavaScript以及各种JavaScript库的作用和异同；接下来介绍了jQuery以及jQuery的优势；之后介绍了如何配置jQuery环境，编写简单的jQuery代码和优化jQuery代码的风格；最后对jQuery对象和DOM对象的相互转换，jQuery和其他库的冲突这两个常见问题进行了详细描述。此外，本章还介绍了几款jQuery的开发工具和插件。
-
- 
-
- 
-
- 
 
 本章是全书的基础。
 
@@ -59,12 +53,6 @@
 第7章的重点是插件。jQuery有着非常丰富而强大的插件。在这一章里，首先是对几个常见而实用的插件进行详细讲解，例如表单验证插件（Validation Plugin）、表单插件（Form Plugin）、遮罩窗口插件（SimpleModal Plugin）、Cookie插件和UI插件；然后详细介绍了如何编写jQuery插件和使用插件应注意的事项。
 
 本章是学习jQuery的插件应用和编写的基础。
-
- 
-
- 
-
- 
 
 第8章将前7章讲解的知识点和效果进行整合，打造出一个非常有个性的网站，并从案例研究、网站材料、网站结构、网站样式和网站脚本等多方面指导读者参与项目建设，而不仅仅是简单地编写代码。
 
@@ -93,12 +81,6 @@
 读者对象
 
 本书适合所有对jQuery技术感兴趣的Web设计者和前端开发人员阅读学习。
-
- 
-
- 
-
- 
 
 阅读此书需要有一定的HTML、CSS和JavaScript基础知识。
 
@@ -144,15 +126,7 @@ var  variable    =   DOM对象;
 
 本书中的例子均会以这种形式呈现，以方便读者阅读。
 
-8．如果没有特别说明，所有网页的头部都必须有标准的DOCTYPE声明。
-
- 
-
- 
-
- 
-
- 
+8．如果没有特别说明，所有网页的头部都必须有标准的DOCTYPE声明。 
 
 读者反馈&示例下载
 
@@ -169,8 +143,6 @@ var  variable    =   DOM对象;
 最后，还是希望本书能给大家带来收获。
 
 每多学一点知识，就能少写一点代码。
-
- 
 
 编  者
 
